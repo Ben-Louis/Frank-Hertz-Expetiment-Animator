@@ -1,6 +1,6 @@
 ## Animation of Frank-Hertz Experiment
 
-#### equirements
+#### Requirements
 
 - python3
 - pygame
